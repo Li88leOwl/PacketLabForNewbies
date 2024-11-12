@@ -1,4 +1,5 @@
-# PACKET LAB FOR NEWBIES
+# PACKET LAB FOR NEWBIES![Github Packet Lab for Newbies](https://github.com/user-attachments/assets/4d978af2-d90b-4991-9f05-558980673fad)
+
 
 Welcome to the **Cisco Packet Tracer Lab Challenges** repository! Here, you'll find a collection of networking exercises that cover a wide range of topics in **network design**, **configuration**, and **security**. The goal is to provide hands-on experience for students, professionals, and enthusiasts who want to sharpen their networking skills.
 
@@ -44,10 +45,15 @@ Whether you're new to networking or looking to test your skills, this repository
 
 This folder contains challenges that are **unsolved**—your mission is to take on these exercises and solve them. By solving these, you’ll gain practical experience with:
 
-- Advanced routing and switching
-- Network security and firewalls
-- VPN configuration
-- Wireless security
+- Skills Integrated Challenge
+- Server Firewalls and Router ACLs
+- Router and Switch Redundancy
+- Configuring VPN Tunnel Mode
+- Configuring VPN Transport Mode
+- WEP WPA2 PSK WPA2 RADIUS
+- Using File and Data Integrity Checks
+- Communicating in a Cyber World
+- Creating a Cyber World
 - And more!
 
 ### How to Get Started
@@ -62,7 +68,7 @@ This folder contains challenges that are **unsolved**—your mission is to take 
    Open the Packet Tracer file (with the `.pka` extension) in Cisco Packet Tracer and start working through the challenges.
 
 4. **Try to Solve the Unsolved Files**:  
-   If you're feeling up for the challenge, grab an unsolved PKA file, read through the instructions, and try to configure the network yourself. After solving, feel free to submit a pull request with your solutions to share with others!
+   If you're feeling up for the challenge, grab an unsolved PKA file, read through the instructions, and try to configure the network yourself. After solving, feel free to submit a pull request with your solutions to share with others! (IF stuck check the solved files to help you troubleshoot where needed)
 
 5. **Share Your Solutions and Learn Together**:  
    If you solve any of the unsolved challenges, don’t forget to share your solution by opening a pull request. Feel free to ask for help if you're stuck or want to discuss a particular solution.
