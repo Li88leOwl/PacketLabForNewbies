@@ -1,6 +1,4 @@
-# PACKET LAB FOR NEWBIES![Github Packet Lab for Newbies](https://github.com/user-attachments/assets/4d978af2-d90b-4991-9f05-558980673fad)
-
-
+# PACKET LAB FOR NEWBIES  ![Github Packet Lab for Newbies](https://github.com/user-attachments/assets/b071f909-7078-42c3-be39-cb91b991533c)
 Welcome to the **Cisco Packet Tracer Lab Challenges** repository! Here, you'll find a collection of networking exercises that cover a wide range of topics in **network design**, **configuration**, and **security**. The goal is to provide hands-on experience for students, professionals, and enthusiasts who want to sharpen their networking skills.
 
 Whether you're new to networking or looking to test your skills, this repository has something for everyone. Try solving the **unsolved challenges**, explore the solutions in the **solved challenges**, and improve your understanding of core networking concepts.
